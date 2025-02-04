@@ -1,2 +1,2 @@
-# admin
+# mi_nube
 interfaz admin
